@@ -1,2 +1,2 @@
-# SmartCoaster
-Smart coaster that reminds the user to drink water
+# Magikarp
+A smart coaster that reminds the user to drink water
