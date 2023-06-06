@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Magikarp 👋</h1>
+<h1 align="center">Welcome to Magikarp 👋🏾</h1>
 
 > Magikarp is a smart coaster that reminds you to stay hydrated
 
