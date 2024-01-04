@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to Magikarp 🐟</h1>
-
-> Magikarp is a smart coaster that reminds you to stay hydrated
+IoT Water Consumption Monitoring System
 
 <h2 align="left">Demo:</h2>
 
@@ -8,7 +7,18 @@
 
 🔭 This project is currently in progress: [Magikarp](https://github.com/e-chesoni/Magikarp/blob/main/README.md)
 
-<h2 align="left">How to Get Up and Running with Magikarp:</h2>
+## Introduction
+This project delivers an IoT solution for monitoring water consumption, aimed at improving user hydration. It combines custom hardware design, efficient software, and a user-friendly interface.
+
+### Key Features and Technologies
+- **Custom PCB Design**: Two PCBAs, a primary and a secondary board, were designed using Altium, ensuring reliable system operations.
+- **Software Development**: C++ software orchestrates communication between external devices, crucial for accurate water consumption tracking.
+- **Enclosure Design**: A functional enclosure, designed with Fusion 360, houses the system, reflecting the integration of PCB design, 3D modeling, and software development.
+
+### Project Goals
+The goal is to blend technology with practical use, providing real-time hydration data to users, encouraging informed hydration choices.
+
+## Prerequisites
 Magikarp is a hardware and software project, therefore to get totally up and running, you'll need the following equipment:
 
 - [ESP32 Huzzah Board](https://www.adafruit.com/product/3405?gclid=Cj0KCQjw7PCjBhDwARIsANo7CgmkGsc5c8LHFNAAV5n93fKwmBXyMqiryFoV63J6RRm2t-V31lj0YPgaAg4qEALw_wcB) (other ESP32 boards will likely work, but this is the one I'm currently using for development)
@@ -19,12 +29,8 @@ Magikarp is a hardware and software project, therefore to get totally up and run
 
 - [Strain Gauge](https://www.amazon.com/CenryKay-Strain-Resistance-Sensor-BF350-3AA/dp/B09Z2B6DRY/ref=asc_df_B09Z2B6DRY/?tag=hyprod-20&linkCode=df0&hvadid=652736743363&hvpos=&hvnetw=g&hvrand=6882561500276193332&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031296&hvtargid=pla-1788874165606&psc=1&gclid=Cj0KCQjw7PCjBhDwARIsANo7CgkeAqW2610KaGOGEonc9G6W-V2dJFAPyvHuertCg3w4Y9uxVLkvni8aAlImEALw_wcB)
 
-<h2 align="left">License:</h2>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## License
+This project is licensed under MIT
 
 <h3 align="left">Magikarp Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
