@@ -21,7 +21,7 @@ This project delivers an IoT solution for monitoring water consumption, aimed at
 - **Enclosure Design**: A functional enclosure, designed with Fusion 360, houses the system, reflecting the integration of PCB design, 3D modeling, and software development.
   <div align="center">
     <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/270ac8a0-35ea-4e9f-a2d4-c866d3ac4c68" width="200" height="200">
-    <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d" width="200" height="200">
+    <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d" width="210" height="200">
   </div>
   
 ### Project Goals
