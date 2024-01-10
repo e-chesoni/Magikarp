@@ -13,7 +13,7 @@ This project delivers an IoT solution for monitoring water consumption, aimed at
 ### Key Features and Technologies
 - **Custom PCB Design**: Two PCBAs, a primary and a secondary board, were designed using Altium, ensuring reliable system operations.
   <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/ddd8297d-654e-4826-99ca-1f9fcfcbfcfe" width="200" height="200">
-  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/f169cb7c-c1af-406b-a383-3ecaaf9d2b25" width="200" height="200">
+  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/f169cb7c-c1af-406b-a383-3ecaaf9d2b25" width="150" height="100">
 
 
 - **Software Development**: C++ software orchestrates communication between external devices, crucial for accurate water consumption tracking.
