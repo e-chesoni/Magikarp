@@ -12,16 +12,18 @@ This project delivers an IoT solution for monitoring water consumption, aimed at
 
 ### Key Features and Technologies
 - **Custom PCB Design**: Two PCBAs, a primary and a secondary board, were designed using Altium, ensuring reliable system operations.
+<div align="center">
   <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/ddd8297d-654e-4826-99ca-1f9fcfcbfcfe" width="200" height="200">
   <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/f169cb7c-c1af-406b-a383-3ecaaf9d2b25" width="150" height="100">
-
-
+</div>
+  
 - **Software Development**: C++ software orchestrates communication between external devices, crucial for accurate water consumption tracking.
 - **Enclosure Design**: A functional enclosure, designed with Fusion 360, houses the system, reflecting the integration of PCB design, 3D modeling, and software development.
-  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/270ac8a0-35ea-4e9f-a2d4-c866d3ac4c68" width="200" height="200">
-  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d" width="200" height="200">
-
-
+  <div align="center">
+    <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/270ac8a0-35ea-4e9f-a2d4-c866d3ac4c68" width="200" height="200">
+    <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d" width="200" height="200">
+  </div>
+  
 ### Project Goals
 The goal is to blend technology with practical use, providing real-time hydration data to users, encouraging informed hydration choices.
 
