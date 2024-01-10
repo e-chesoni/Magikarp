@@ -20,6 +20,10 @@ This project delivers an IoT solution for monitoring water consumption, aimed at
   ![Magikarp_Default](https://github.com/e-chesoni/Magikarp/assets/57457528/270ac8a0-35ea-4e9f-a2d4-c866d3ac4c68)
   ![Magikarp_Default_View_Orange](https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d)
 
+  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/270ac8a0-35ea-4e9f-a2d4-c866d3ac4c68" width="100" height="100">
+  <img src="https://github.com/e-chesoni/Magikarp/assets/57457528/7f4c60a4-b7ad-4ff5-bbeb-27715bf1687d" width="100" height="100">
+
+
 ### Project Goals
 The goal is to blend technology with practical use, providing real-time hydration data to users, encouraging informed hydration choices.
 
